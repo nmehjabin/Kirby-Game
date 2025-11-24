@@ -2,25 +2,6 @@
 
 A simple 2D platformer built with Processing — play as Kirby, collect coins, avoid enemies, and progress through stages.
 
-Table of Contents
-
-About
-
-Features
-
-Getting Started
-
-Prerequisites
-
-Setup & Run
-
-Project Structure
-
-How to Play
-
-Future Work
-
-Credits & License
 
 
 # About
